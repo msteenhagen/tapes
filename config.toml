@@ -1,0 +1,47 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-gb"
+title = "Tapes @ Provo.lol"
+theme="archie"
+# copyright = "© Athul"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+	subtitle = "ad hoc tape screenings from the underground (sort of)"
+
+# [[params.social]]
+# name = "GitHub"
+# icon = "github"
+# url = "https://github.com/athul/archie"
+
+[[params.social]]
+name = "Mastodon"
+icon = "twitter"
+url = "https://provo.lol/@tapes"
+
+# [[params.social]]
+# name = "GitLab"
+# icon = "gitlab"
+# url = "https://gitlab.com/athul/"
+
+# [[menu.main]]
+# name = "Home"
+# url = "/"
+# weight = 1
+
+# [[menu.main]]
+# name = "All posts"
+# url = "/posts"
+# weight = 2
+
+# [[menu.main]]
+# name = "About"
+# url = "/about"
+# weight = 3
+
+# [[menu.main]]
+# name = "Tags"
+# url = "/tags"
+# weight = 4

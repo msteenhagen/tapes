@@ -10,6 +10,7 @@ pygmentscodefencesguesssyntax = true
 	mode="auto"
 	useCDN=false
 	subtitle = "ad hoc tape screenings from the underground (sort of)"
+	og_image="/images/ATC-still-19.png"
 
 # [[params.social]]
 # name = "GitHub"

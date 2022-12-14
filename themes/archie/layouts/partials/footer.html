@@ -1,7 +1,7 @@
 <footer>
   <div style="display:flex">
     {{- range $index, $key := .Site.Params.Social -}}
-    <a class="soc" rel="me" href="{{ $key.url }}" rel="me" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
+    <a class="soc" rel="me" target="_blank" href="{{ $key.url }}" title="{{ $key.name }}"><img src="images\mastodon-icon.png" height="25px" style="border: 0;"></a>
     <a class="border"></a>
     {{- end -}}
   </div>

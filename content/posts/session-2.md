@@ -2,6 +2,7 @@
 title: "30 Dec 2022: 1990s Dutch party scene"
 description: "Final tape session of the year is upon us! We'll be viewing a 1990s Dutch countercultural classic."
 date: 2022-12-17T21:30:00+01:00
+image: /images/5001-still.jpg
 # tldr: 
 draft: false
 tags: [90s, clubbing, house, party drugs]

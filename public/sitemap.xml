@@ -2,36 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://tapes.provo.lol/</loc>
+    <lastmod>2022-12-17T21:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tapes.provo.lol/posts/session-2/</loc>
+    <lastmod>2022-12-17T21:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tapes.provo.lol/tags/90s/</loc>
+    <lastmod>2022-12-17T21:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tapes.provo.lol/tags/clubbing/</loc>
+    <lastmod>2022-12-17T21:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tapes.provo.lol/tags/house/</loc>
+    <lastmod>2022-12-17T21:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tapes.provo.lol/tags/party-drugs/</loc>
+    <lastmod>2022-12-17T21:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tapes.provo.lol/posts/</loc>
+    <lastmod>2022-12-17T21:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tapes.provo.lol/tags/</loc>
+    <lastmod>2022-12-17T21:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://tapes.provo.lol/posts/ambient-trip-commander/</loc>
     <lastmod>2022-12-09T21:30:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ambient-trip-commander/</loc>
+    <loc>https://tapes.provo.lol/tags/animation/</loc>
     <lastmod>2022-12-09T21:30:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/animation/</loc>
+    <loc>https://tapes.provo.lol/tags/hacking/</loc>
     <lastmod>2022-12-09T21:30:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hacking/</loc>
+    <loc>https://tapes.provo.lol/tags/space/</loc>
     <lastmod>2022-12-09T21:30:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://tapes.provo.lol/tags/synthesizer/</loc>
     <lastmod>2022-12-09T21:30:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/space/</loc>
-    <lastmod>2022-12-09T21:30:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/synthesizer/</loc>
-    <lastmod>2022-12-09T21:30:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2022-12-09T21:30:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://tapes.provo.lol/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://tapes.provo.lol/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://tapes.provo.lol/categories/</loc>
   </url>
 </urlset>

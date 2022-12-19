@@ -2,44 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tapes @ Provo.lol</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://tapes.provo.lol/tags/</link>
     <description>Recent content in Tags on Tapes @ Provo.lol</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 09 Dec 2022 21:30:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 21:30:00 +0100</lastBuildDate><atom:link href="https://tapes.provo.lol/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>90s</title>
+      <link>https://tapes.provo.lol/tags/90s/</link>
+      <pubDate>Sat, 17 Dec 2022 21:30:00 +0100</pubDate>
+      
+      <guid>https://tapes.provo.lol/tags/90s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clubbing</title>
+      <link>https://tapes.provo.lol/tags/clubbing/</link>
+      <pubDate>Sat, 17 Dec 2022 21:30:00 +0100</pubDate>
+      
+      <guid>https://tapes.provo.lol/tags/clubbing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>house</title>
+      <link>https://tapes.provo.lol/tags/house/</link>
+      <pubDate>Sat, 17 Dec 2022 21:30:00 +0100</pubDate>
+      
+      <guid>https://tapes.provo.lol/tags/house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>party drugs</title>
+      <link>https://tapes.provo.lol/tags/party-drugs/</link>
+      <pubDate>Sat, 17 Dec 2022 21:30:00 +0100</pubDate>
+      
+      <guid>https://tapes.provo.lol/tags/party-drugs/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>animation</title>
-      <link>http://localhost:1313/tags/animation/</link>
+      <link>https://tapes.provo.lol/tags/animation/</link>
       <pubDate>Fri, 09 Dec 2022 21:30:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/animation/</guid>
+      <guid>https://tapes.provo.lol/tags/animation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hacking</title>
-      <link>http://localhost:1313/tags/hacking/</link>
+      <link>https://tapes.provo.lol/tags/hacking/</link>
       <pubDate>Fri, 09 Dec 2022 21:30:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/hacking/</guid>
+      <guid>https://tapes.provo.lol/tags/hacking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>space</title>
-      <link>http://localhost:1313/tags/space/</link>
+      <link>https://tapes.provo.lol/tags/space/</link>
       <pubDate>Fri, 09 Dec 2022 21:30:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/space/</guid>
+      <guid>https://tapes.provo.lol/tags/space/</guid>
       <description></description>
     </item>
     
     <item>
       <title>synthesizer</title>
-      <link>http://localhost:1313/tags/synthesizer/</link>
+      <link>https://tapes.provo.lol/tags/synthesizer/</link>
       <pubDate>Fri, 09 Dec 2022 21:30:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/synthesizer/</guid>
+      <guid>https://tapes.provo.lol/tags/synthesizer/</guid>
       <description></description>
     </item>
     

@@ -2,17 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tapes @ Provo.lol</title>
-    <link>http://localhost:1313/</link>
+    <link>https://tapes.provo.lol/</link>
     <description>Recent content on Tapes @ Provo.lol</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 09 Dec 2022 21:30:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 21:30:00 +0100</lastBuildDate><atom:link href="https://tapes.provo.lol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30 Dec 2022: 1990s Dutch party scene</title>
+      <link>https://tapes.provo.lol/posts/session-2/</link>
+      <pubDate>Sat, 17 Dec 2022 21:30:00 +0100</pubDate>
+      
+      <guid>https://tapes.provo.lol/posts/session-2/</guid>
+      <description>DETAILS:
+30 December 2022
+8.30 PM UK time / 9.30 PM CET/CAT
+Duration: 104 mins
+Watch party: Provo.lol on Twitch
+Final tape session of the year is upon us! We&amp;rsquo;ll be viewing a 1990s Dutch countercultural classic
+⭐️ 5.6/10 stars on IMDB so you know it&amp;rsquo;ll be a party
+bring friends, strangers, acquaintances, whoever :3</description>
+    </item>
+    
     <item>
       <title>16 Dec 2022: Ambient Trip Commander</title>
-      <link>http://localhost:1313/posts/ambient-trip-commander/</link>
+      <link>https://tapes.provo.lol/posts/ambient-trip-commander/</link>
       <pubDate>Fri, 09 Dec 2022 21:30:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/ambient-trip-commander/</guid>
+      <guid>https://tapes.provo.lol/posts/ambient-trip-commander/</guid>
       <description>DETAILS:
 Ambient Trip Commander
 16 December 2022
@@ -26,19 +42,19 @@ AMBIENT TRIP COMMANDER is the story of Samantha Tapfersten, a geeky young woman 
     
     <item>
       <title></title>
-      <link>http://localhost:1313/archives/</link>
+      <link>https://tapes.provo.lol/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archives/</guid>
+      <guid>https://tapes.provo.lol/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://tapes.provo.lol/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://tapes.provo.lol/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
 https://github.com/yuin/goldmark https://github.</description>

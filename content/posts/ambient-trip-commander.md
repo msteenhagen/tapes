@@ -1,5 +1,5 @@
 ---
-title: "16 Dec 2022: Ambient Trip Commander"
+title: "Fri 16 Dec 2022: Ambient Trip Commander"
 description: "heeeyy for our official launch of tapes @ provo.lol we'll be screening a fresh full movie animation Ambient Trip Commander by the greatest living artist on earth---Danny Wolfers a.k.a. Legowelt."
 date: 2022-12-09T21:30:00+01:00
 # tldr: 
@@ -13,7 +13,7 @@ DETAILS:
 
 **Ambient Trip Commander**   
 16 December 2022  
-8.30 PM UK time / 9.30 PM CET/CAT  
+8.30 PM UK time / 9.30 PM CET/WAT  
 Duration: 70 mins  
 Watch party: [Provo.lol on Twitch](https://www.twitch.tv/provolol)
 

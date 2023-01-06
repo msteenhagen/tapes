@@ -9,8 +9,8 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="auto"
 	useCDN=false
-	subtitle = "ad hoc tape screenings from the underground (sort of)"
-	og_image="https://tapes.provo.lol/images/ATC-still-19.png"
+	subtitle = "☠️ Netflix is the opium of the people ☠️ || fortnightly tape screenings for your enjoyment"
+	og_image="https://tapes.provo.lol/images/rashomon.jpg"
 
 # [[params.social]]
 # name = "GitHub"

@@ -1,6 +1,6 @@
 ---
-title: "Fri 27 Jan 2023: Surprise Film <3"
-description: "With so much being plannable nowadays, we thought you might enjoy a surprise Friday film night with the folks at Tapes? Bring strangers, acquaintances and of course plenty of snacks. See you online :3"
+title: "Fri 27 Jan 2023: Stalker (Сталкер)"
+description: "What if you could go to a place that would fulfil your deepest, unacknowledged desire, regardless of the consequences ... would you go? We'll travel to The Zone with a stalker by our side."
 date: 2023-01-13T21:30:00+01:00
 # tldr: 
 draft: false
@@ -11,10 +11,12 @@ tags: [161 mins, Soviet Union, scifi, adventure, thriller]
 
 DETAILS:
 
-**You Will Find Out Which Film On The 27th <3**   
+**Stalker (Сталкер)**  
 27 January 2023  
 8.30 PM UK time / 9.30 PM CET/WAT  
-Duration: 161 mins  
+Duration: 161 mins
 Watch party: [Provo.lol on Twitch](https://www.twitch.tv/provolol)
+
+Produced in 1979 in the Soviet Union of Socialist Republics, directed by Andrei Tarkovsky.
 
 b.y.o.b. + b.y.o 🍕

@@ -3,7 +3,7 @@ title: "Fri 10 Feb 2023: Surprise Film <3"
 description: "Why not settle in for a Friday surprise film? No Netflix, just chill. Bring strangers, acquaintances, and of course any snacks you like. See you online :3"
 date: 2023-01-27T21:30:00+01:00
 # tldr: 
-draft: true
+draft: false
 tags: [surprise]
 ---
 

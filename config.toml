@@ -9,7 +9,7 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="auto"
 	useCDN=false
-	subtitle = "☠️ Netflix is the opium of the people ☠️ || fortnightly tape screenings for your enjoyment"
+	subtitle = "☠️ Netflix is the opium of the people ☠️"
 	og_image="https://tapes.provo.lol/images/session-04-outdoors.jpg"
 
 # [[params.social]]

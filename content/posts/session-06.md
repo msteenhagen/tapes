@@ -1,9 +1,9 @@
 ---
 title: "Fri 24 Feb 2023: Surprise Film <3"
 description: "Why not settle in for a Friday surprise film? No Netflix, just chill. Bring strangers, acquaintances, and of course any snacks you like. See you online :3"
-date: 2023-02-10T23:30:00+01:00
+date: 2023-02-10T23:47:00+01:00
 # tldr: 
-draft: true
+draft: false
 tags: [surprise]
 ---
 
@@ -11,7 +11,7 @@ tags: [surprise]
 
 DETAILS:
 
-**You Will Find Out Which Film(s) On The Day**   
+**You Will Find Out Which Film On The Day**   
 24 February 2023  
 8.30 PM UK time / 9.30 PM CET/WAT  
 Duration: to be confirmed 

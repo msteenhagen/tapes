@@ -1,6 +1,6 @@
 ---
 title: "Fri 10 Feb 2023: Short Films from the Nordics"
-description: "Why not settle in for a Friday night surprise set of short films from the Nordics? No Netflix, just chill. Bring strangers, acquaintances, and of course any snacks you like. See you online :3"
+description: "Sauna? ✅ Forest walks? ✅ Northern lights? ✅ Awkward conversations? ✅ Being swallowed up by a giant hovering egg? ✅ Join us for an evening of short films from the Nordics"
 date: 2023-01-27T21:30:00+01:00
 # tldr: 
 draft: false

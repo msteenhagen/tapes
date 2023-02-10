@@ -1,5 +1,5 @@
 ---
-title: "Fri 10 Feb 2023: Short Films from the Nordics"
+title: "Fri 10 Feb 2023: Short films from the Nordics"
 description: "Sauna? ✅ Forest walks? ✅ Northern lights? ✅ Awkward conversations? ✅ Being swallowed up by a giant hovering egg? ✅ Join us for an evening of short films from the Nordics"
 date: 2023-01-27T21:30:00+01:00
 # tldr: 

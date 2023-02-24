@@ -8,8 +8,8 @@ draft: false
 tags: [surprise]
 ---
 
-![An exhausted-looking person person with a machete stands in the middle of an overgrown field and gestures ahead, stating: 'This whole area. It's more than I can handle'. In the background another person cuts down the overgrowth.](/images/06_this-whole-area.jpg)
 ![Person with a red bowtie and a bright pink and orang suit sits in the middle of a road, while cars approach from behind. Their raise their head up as though singing.](/images/06_enjoy-poverty-intro.jpg)
+![An exhausted-looking person person with a machete stands in the middle of an overgrown field and gestures ahead, stating: 'This whole area. It's more than I can handle'. In the background another person cuts down the overgrowth.](/images/06_this-whole-area.jpg)
 
 DETAILS:
 

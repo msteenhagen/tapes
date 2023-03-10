@@ -1,11 +1,11 @@
 ---
 title: "Fri 24 Feb 2023: Enjoy Poverty"
-description: "Apparently, 'the *Guernica* of our time'"
+description: "Apparently, 'the *Guernica* of our time'?"
 date: 2023-02-10T23:47:00+01:00
 image: /images/06_this-whole-area.jpg
 # tldr: 
 draft: false
-tags: [surprise]
+tags: ["Democratic Republic of the Congo", "poverty", "exploitation"]
 ---
 
 ![Person with a red bowtie and a bright pink and orange suit sits in the middle of a road, while cars approach from behind. Their raise their head up as though singing.](/images/06_enjoy-poverty-intro.jpg)
@@ -19,6 +19,6 @@ DETAILS:
 Duration: 90 mins
 Watch party: [Provo.lol on Twitch](https://www.twitch.tv/provolol)
 
-Produced in 2009, mainly in the Democratic Republic of Congo. Directed by Renzo Martens.
+Produced in 2009, mainly in the Democratic Republic of the Congo. Directed by Renzo Martens.
 
 b.y.o.b. + b.y.o 🍕

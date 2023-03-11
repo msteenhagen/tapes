@@ -18,7 +18,7 @@ Duration: approx. 139 mins
 Watch party: [Provo.lol on Twitch](https://www.twitch.tv/provolol) 
 
 - Episode from *Wakakozake* (ワカコ酒) (2015), created by Chie Shinkyu, 30 mins
-- *Tamporo* (タンポポ) (1985), directed by Jūzō Itami, 115 mins 
+- *Tampopo* (タンポポ) (1985), directed by Jūzō Itami, 115 mins 
 - A collection of clips of Paul Hollywood eating things, 8 mins
 
 b.y.o.b. + b.y.o 🍜

@@ -7,7 +7,7 @@ draft: false
 tags: ["school", "insurrection", "incendiary"]
 ---
 
-![Flyer of the to school filminight](/images/to-school-tapes.jpeg)
+![Flyer of the to school filminight](/images/to-school.jpeg)
 
 DETAILS:
 

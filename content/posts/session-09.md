@@ -1,7 +1,7 @@
 ---
 title: "Fri 7 Apr 2023: To School"
 description: "Why not settle in for a Friday free online film night with your chums are provolol? No Netflix, just chill. Bring strangers, acquaintances, and of course any snacks you like. See you online :3"
-date: 2023-03-10T23:47:00+01:00
+date: 2023-03-24T23:47:00+01:00
 # tldr: 
 draft: false
 tags: ["school", "insurrection", "incendiary"]

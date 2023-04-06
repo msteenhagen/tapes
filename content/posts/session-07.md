@@ -1,5 +1,5 @@
 ---
-title: "Fri 10 Mar 2023: FOOD"
+title: "Fri 10 Mar 2023: Tampopo (タンポポ)"
 description: "Slurp. Munch. Gulp. Repeat."
 date: 2023-02-24T23:47:00+01:00
 # tldr: 
@@ -11,7 +11,7 @@ tags: ["food", "ramen", "sake", "restaurant", "eating"]
 
 DETAILS:
 
-**FOOD**   
+**Tampopo (タンポポ)**   
 10 March 2023  
 8.30 PM UK time / 9.30 PM CET/WAT  
 Duration: approx. 139 mins  

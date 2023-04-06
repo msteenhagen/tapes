@@ -1,6 +1,7 @@
 ---
 title: "Fri 14 Apr 2023: After the revolution ✊"
-description: "Why not settle in for a Friday free online film night with your chums are provolol? No Netflix, just chill. Bring strangers, acquaintances, and any snacks you like. See you there :3"
+subtitle: "Friday 14 April 2023"
+description: "Why not settle in for a free online Friday film night with your chums at provolol? No Netflix, just chill. Bring strangers, acquaintances, and any snacks you like. See you there :3"
 date: 2023-04-07T23:47:00+01:00
 # tldr: 
 draft: true

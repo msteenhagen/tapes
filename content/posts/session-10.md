@@ -1,14 +1,14 @@
 ---
 title: "Fri 14 Apr 2023: After the revolution ✊"
 subtitle: "Friday 14 April 2023"
-description: "Why not settle in for a free online Friday film night with your chums at provolol? No Netflix, just chill. Bring strangers, acquaintances, and any snacks you like. See you there :3"
+description: "Why not settle in for a free online Friday film night with your chums at provolol? No Netflix, just chill. Bring strangers, acquaintances, any snacks you like. See you there :3"
 date: 2023-04-07T23:47:00+01:00
 # tldr: 
-draft: true
+draft: false
 tags: ["socialism", "cannibalism", "aristocracy"]
 ---
 
-<!-- ![Flyer of the after the revolution film night](/images/.jpeg) -->
+![Flyer of the after the revolution film night](/images/after-the-revolution.jpeg)
 
 DETAILS:
 

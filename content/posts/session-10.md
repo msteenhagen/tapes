@@ -8,7 +8,7 @@ draft: false
 tags: ["socialism", "cannibalism", "aristocracy"]
 ---
 
-![Flyer of the after the revolution film night](/images/after-the-revolution.jpeg)
+![Flyer of the after the revolution film night](/images/after-the-revolution.jpg)
 
 DETAILS:
 

@@ -1,22 +1,23 @@
 ---
 title: "Fri 7 Apr 2023: To School"
-description: "Why not settle in for a free online Friday film night with your chums at provolol? No Netflix, just chill. Bring strangers, acquaintances, and of course any snacks you like. See you online :3"
+description: "They control what you eat. They control when you sleep. They control where you walk. They control when you talk. Until they don't."
 date: 2023-03-24T23:47:00+01:00
 # tldr: 
 draft: false
-tags: ["school", "insurrection", "incendiary"]
+tags: ["boarding school", "college", "insurrection", "incendiary"]
 ---
 
-![Flyer of the to school filminight](/images/to-school.jpeg)
+![Flyer of the 'to school' film night](/images/to-school.jpeg)
+![A still from 'if....'](/images/if-still.jpeg)
 
 DETAILS:
 
-**To School**   
+**if....**   
 7 April 2023  
 8.30 PM UK time / 9.30 PM CEST/CAT  
 Duration: approx. 111 mins  
 Watch party: [Provo.lol on Twitch](https://www.twitch.tv/provolol)
 
-*you'll find out which tape on the day* 
+Produced in 1968 in the United Kingdom, directed by Lindsay Anderson.
 
 b.y.o.b. + b.y.o 🎓

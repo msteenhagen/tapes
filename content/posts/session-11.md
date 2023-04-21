@@ -2,7 +2,7 @@
 title: "Fri 5 May 2023: Sneak surprise film party"
 subtitle: "Friday 5 May 2023"
 description: "Why not settle in for a free online Friday film night with your chums at provolol? No Netflix, just chill. Bring strangers, acquaintances, any snacks you like :3"
-date: 2023-04-21T23:47:00+01:00
+date: 2023-04-21T10:00:00+01:00
 # tldr: 
 draft: false
 tags: ["surprise", "film", "party"]

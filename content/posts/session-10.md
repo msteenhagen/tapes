@@ -1,7 +1,7 @@
 ---
-title: "Fri 21 Apr 2023: After the revolution ✊"
+title: "Fri 21 Apr 2023: The Survivors (Los sobrevivientes)"
 subtitle: "Friday 21 April 2023"
-description: "Why not settle in for a free online Friday film night with your chums at provolol? No Netflix, just chill. Bring strangers, acquaintances, any snacks you like. See you there :3"
+description: "After the socialist revolution, a group of aristocrats resolves to stick it out on their secluded compound until everything blows over. What could possibly go wrong?"
 date: 2023-04-07T23:47:00+01:00
 # tldr: 
 draft: false
@@ -12,12 +12,12 @@ tags: ["socialism", "cannibalism", "aristocracy"]
 
 DETAILS:
 
-**After the revolution**   
+**The Survivors (*Los sobrevivientes*)**   
 21 April 2023  
 8.30 PM UK time / 9.30 PM CEST/CAT  
 Duration: approx. 130 mins  
 Watch party: [Provo.lol on Twitch](https://www.twitch.tv/provolol)
 
-*you'll find out which tape on the day* 
+Produced in 1979 in Cuba, directed by Tomás Gutiérrez Alea.
 
 b.y.o.b. + b.y.o ✊

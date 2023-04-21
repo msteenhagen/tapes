@@ -9,6 +9,7 @@ tags: ["socialism", "cannibalism", "aristocracy"]
 ---
 
 ![Flyer of the after the revolution film night](/images/after-the-revolution.jpg)
+![Still from Los sobrevivientes](/images/los-sobrevivientes.jpeg)
 
 DETAILS:
 

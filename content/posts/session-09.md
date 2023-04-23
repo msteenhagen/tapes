@@ -1,5 +1,5 @@
 ---
-title: "Fri 7 Apr 2023: To School"
+title: "Fri 7 Apr 2023: if ...."
 description: "They control what you eat. They control when you sleep. They control where you walk. They control when you talk. Until they don't."
 date: 2023-03-24T23:47:00+01:00
 # tldr: 

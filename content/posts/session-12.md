@@ -1,23 +1,23 @@
 ---
-title: "Fri 19 May 2023: Sneak surprise film party"
+title: "Fri 19 May 2023: The Third Generation (Die Dritte Generation)"
 subtitle: "Friday 19 May 2023"
-description: "Why not settle in for a free online Friday film night with your chums at provolol? No Netflix, just chill. Bring strangers, acquaintances, any snacks you like :3"
+description: "Could a terrorist threat help boost sales of computerised security systems? Join the operations of an underground urban guerilla cell to find out..."
 date: 2023-05-05T10:00:00+01:00
 # tldr: 
 draft: false
-tags: ["surprise", "film", "party"]
+tags: ["guerilla", "security", "uprising", "hostage"]
 ---
 
-![Bubbly party image](/images/surprise-party.jpg)
+![Three people hanging out in an elegant if messy room. Two stand and drink champagne, one sits at a table and prepares a drug injection](/images/third-generation.jpeg)
 
 DETAILS:
 
-**Sneak surprise film**   
+**The Third Generation (*Die Dritte Generation*)**   
 19 May 2023  
 9.30 PM CEST/CAT  
-Duration: TBA  
+Duration: 105 mins  
 Watch party: [Provo.lol on Twitch](https://www.twitch.tv/provolol)
 
-*you'll find out which tape on the day* 
+Produced in 1979 in West Germany, directed by Rainer Werner Fassbinder. 
 
 b.y.o.b. + b.y.o 🍕

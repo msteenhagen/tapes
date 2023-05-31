@@ -8,7 +8,9 @@ draft: false
 tags: ["liberation", "Aceh", "film", "party", "struggle", "freedom"]
 ---
 
-![Announcement with luscious green landscape](https://provo.lol/storage/system/media_attachments/files/110/305/314/238/990/881/original/9affc12a4626d74f.mp4)
+
+![Still from Tjoet Nja Dhien](/images/tjoet-nja.jpg)
+![Flyer with the text 'Liberation' against a backdrop of a luscious green landscape](/images/liberation.png)
 
 DETAILS:
 

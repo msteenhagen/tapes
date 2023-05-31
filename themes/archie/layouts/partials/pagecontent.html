@@ -1,8 +1,10 @@
-{{ define "main" }}
+<div class="page-content">
+	{{ define "main" }}
 <main>
 	<article>
 		<div class="title">
 			<h1 class="title">{{ .Title }}</h1>
+			<h3 class="title">{{ .Subtitle }}</h3>
 			<!-- <div class="meta">Posted on {{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</div> -->
 		</div>
 		{{ if isset .Params "tldr" }}
@@ -31,3 +33,4 @@
 	</article>
 </main>
 {{ end }}
+</div>

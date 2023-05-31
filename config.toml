@@ -1,6 +1,7 @@
 baseURL = "https://tapes.provo.lol"
 languageCode = "en-gb"
 title = "Tapes @ Provo.lol"
+subtitle = "☠️ Netflix is the opium of the people ☠️"
 theme="archie"
 # copyright = "© Athul"
 pygmentsstyle = "monokai"

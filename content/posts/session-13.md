@@ -16,7 +16,7 @@ DETAILS:
 2 June 2023  
 9.30 PM CEST/CAT  
 Duration: 92 minutes 
-Watch party: [Provo.lol on Twitch](https://www.twitch.tv/provolol)
+Watch party: NO LONGER ON TWITCH, instead go to --> [Provo.lol on Peertube](https://hitchtube.fr/w/8PHSMe4xDYPpiQgpWr94dk)
 
 *you'll find out which tape on the day* 
 

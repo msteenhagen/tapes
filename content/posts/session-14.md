@@ -15,7 +15,7 @@ DETAILS:
 **Sneak surprise film**   
 16 June 2023  
 9.30 PM CEST/CAT  
-Duration: TBA
+Duration: TBA  
 Watch party: Peertube link TBA
 
 *you'll find out which tape on the day* 

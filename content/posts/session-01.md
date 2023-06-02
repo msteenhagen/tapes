@@ -7,7 +7,7 @@ draft: false
 tags: [animation, synthesizer, hacking, space]
 ---
 
-![A still from Ambient Trip Commander showing a person inside a colourful cabin amid a snowy landscape, browsing through vinyl records](/images/ATC-still-19.png)
+![A still from Ambient Trip Commander showing a person inside a colourful cabin amid a snowy landscape, browsing through vinyl records](/images/ATC-still-19.jpg)
 
 DETAILS:
 

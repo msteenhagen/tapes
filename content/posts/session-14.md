@@ -8,7 +8,7 @@ draft: false
 tags: ["humanitarianism", "Punjab", "environmentalism", "history", "biography"]
 ---
 
-![Bubbly party image](/images/surprise-party.jpg)
+![Flyer for the 'dedication' tapes session](/images/dedication.jpg)
 
 DETAILS:
 

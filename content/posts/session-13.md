@@ -16,7 +16,7 @@ DETAILS:
 2 June 2023  
 9.30 PM CEST/CAT  
 Duration: 92 minutes 
-Watch party: WE GOT KICKED OFF TWITCH, instead go to --> [Provo.lol on Peertube](https://hitchtube.fr/w/8PHSMe4xDYPpiQgpWr94dk)
+Watch party: WE GOT KICKED OFF TWITCH, instead go to --> [Provolol on Peertube](https://dalek.zone/w/amv43uhTmK9U4iEyNLsBAh)
 
 Produced in 1973 in Scotland. Directed by Robin Hardy, screenplay by Anthony Shaffer. 
 

@@ -1,23 +1,23 @@
 ---
-title: "Fri 14 July 2023: Pollution"
+title: "Fri 14 July 2023: Under the Dome (穹顶之下)"
 subtitle: "Friday 14 July 2023"
-description: "Why not settle in for a free online Friday film night with your chums at provolol? No Netflix, just chill. Bring strangers, acquaintances, any snacks you like :3"
+description: "Air pollution kills. In this lecture-documentary investigative journalist Chai Jing urges people not to sit back, but to take action: « This is how history is made. With thousands of ordinary people one day saying, 'No, I'm not satisfied, I don't want to wait. I want to stand up and do a little something.' »"
 date: 2023-06-30T10:00:00+01:00
 # tldr: 
 draft: false
-tags: ["surprise", "film", "party"]
+tags: ["pollution", "air quality", "documentary", "pm 2.5"]
 ---
 
-![Bubbly party image](/images/surprise-party.jpg)
+![Close up moving image of a speaking child. Captions state: 'Chai Jing: Have you ever seen real stars? Little girl: No.'](/images/under-the-dome.gif)
 
 DETAILS:
 
-**Sneak surprise film: Pollution**   
+**Under the Dome (穹顶之下)**   
 14 July 2023  
 9.30 PM CEST/CAT  
-Duration: TBA  
+Duration: 104 minutes  
 Watch party: https://dalek.zone/w/amv43uhTmK9U4iEyNLsBAh
 
-*you'll find out which tape on the day* 
+Produced in 2015 in the People's Republic of China. Directed by Ming Fan, produced by Xin Qiang Hou, narrated by [Chai Jing](https://en.wikipedia.org/wiki/Chai_Jing).
 
-b.y.o.b. + b.y.o 🍕
+b.y.o.b. + b.y.o. 😷

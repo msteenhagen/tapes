@@ -1,18 +1,18 @@
 ---
-title: "Fri 28 July 2023: PCs & livestreams"
+title: "Fri 28 July 2023: PC Music, My First Live Stream"
 subtitle: "Friday 28 July 2023"
 description: "Why not settle in for a free online Friday screening night with your chums at provolol? No Netflix, just chill. Bring strangers, acquaintances, any snacks you like :3"
 date: 2023-07-14T10:00:00+01:00
 # tldr: 
 draft: false
-tags: ["surprise", "screening", "party", "music"]
+tags: ["live", "pcmusic", "party", "music"]
 ---
 
-![Bubbly party image](/images/surprise-party.jpg)
+![DIY brainstorm moodboard](/images/pc-live-stream.png)
 
 DETAILS:
 
-**Sneak surprise screening: PCs & livestreams**   
+**PC Music, My First Live Stream**   
 28 July 2023  
 9.30 PM CEST/CAT  
 Duration: ca. 1 hour 40 mins  

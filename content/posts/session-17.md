@@ -13,7 +13,7 @@ tags: ["surprise", "screening", "party", "music"]
 DETAILS:
 
 **Sneak surprise screening: Antidote to Oppenheimer**   
-28 July 2023  
+11 August 2023  
 9.30 PM CEST/CAT  
 Duration: ca. 1 hour 45 mins  
 Watch party: https://dalek.zone/w/amv43uhTmK9U4iEyNLsBAh

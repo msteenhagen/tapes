@@ -16,7 +16,7 @@ DETAILS:
 25 August 2023  
 9.30 PM CEST/CAT  
 Duration: ca. 56 mins  
-Watch party: https://dalek.zone/w/amv43uhTmK9U4iEyNLsBAh
+Watch party: https://www.twitch.tv/provolol
 
 *you'll find out which tape on the day* 
 

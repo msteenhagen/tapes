@@ -1,10 +1,10 @@
 ---
-title: "Fri 15 September 2023: Sneak surprise film"
-subtitle: "Friday 15 September 2023"
+title: "Fri 29 September 2023: Sneak surprise film"
+subtitle: "Friday 29 September 2023"
 description: "Why not settle in for a free online Friday screening night with your chums at provolol? No Netflix, just chill. Bring strangers, acquaintances, any snacks you like :3"
-date: 2023-08-25T10:00:00+01:00
+date: 2023-09-14T10:00:00+01:00
 # tldr: 
-draft: false
+draft: true
 tags: ["surprise", "screening"]
 ---
 

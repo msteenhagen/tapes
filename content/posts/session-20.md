@@ -16,7 +16,7 @@ DETAILS:
 Theme: Horticulture
 ~~8~~ 15 September 2023  
 9.30 PM CEST/CAT  
-Duration: TBA
+Duration: 88 minutes
 Watch party: https://twitch.tv/provolol
 
 *you'll find out which tape on the day* 
